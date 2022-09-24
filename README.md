@@ -1,5 +1,6 @@
-هذا هو الامر البرمجي 
-👇🏻👇🏻👇🏻👇🏻👇🏻
+هذا هو الكود \ 
+
+
 setInterval(() => {
   for (const d of document.querySelectorAll('div[data-testid="unlike"]')) {
     d.click()
